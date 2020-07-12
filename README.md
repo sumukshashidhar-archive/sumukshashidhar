@@ -4,10 +4,10 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a full stack developer over at **[BeautyMnl](https://beautymnl.com)** using [Ruby on Rails](https://rubyonrails.org/) and [Vue.js](https://vuejs.org/)
+- I run **[1sigmoid](https://1sigmoid.ml)**
 - ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
+- ✍️ Writing tech blog posts over at **[Sumuk's Blog](https://blog.sumukshashidhar.com)**.
+- 🛠 Getting myself into Competitive Programming. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
 
 <details>
   <summary>Some other facts about me-e-e</summary>
@@ -18,7 +18,7 @@ Here's a list of things I currently keep myself busy with:
   - My go to jam when coding: musicals. Non-stop. ⭐️
   - I absolutely adore Eevee, the best Pokemon.
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=sumukshashidharz&show_icons=true)
 </details>
 
 <hr>
@@ -33,7 +33,7 @@ Here's a list of things I currently keep myself busy with:
   </p>
 
   <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=jayehernandez.visitor-badge">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sumukshashidhar.visitor-badge">
   </p>
 </p>
 
