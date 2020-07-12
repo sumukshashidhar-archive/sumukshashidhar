@@ -18,7 +18,7 @@ Here's a list of things I currently keep myself busy with:
   - My go to jam when coding: musicals. Non-stop. ⭐️
   - I absolutely adore Eevee, the best Pokemon.
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=sumukshashidharz&show_icons=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=sumukshashidhar&show_icons=true)
 </details>
 
 <hr>
