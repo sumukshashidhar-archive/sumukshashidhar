@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon { @apply w-8 h-8 text-teal-400 transition duration-500 ease-out fill-current; }
+.icon:hover { @apply text-black; }
+
+.link { @apply font-bold text-teal-400 transition duration-500 ease-out; }
+.link:hover { @apply border-b-2 border-teal-400; }
+
+.container-inner { padding-left: 2rem; padding-right: 2rem; }
+@media (min-width: 640px) { .container-inner { max-width: 640px; } }
+@media (min-width: 768px) { .container-inner { max-width: 768px; } }
+@media (min-width: 1024px) { .container-inner { max-width: 1024px; } }
