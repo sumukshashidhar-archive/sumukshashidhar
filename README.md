@@ -24,10 +24,10 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/sumukshashidhar/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/sumukshashidhar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@sumukshashidhar.com" alt="Contact me"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/readme/mail-fill.svg"></a>
-    <a href="https://sumukshashidhar.com" alt="My site"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/sumukshashidhar/master/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/sumukshashidhar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaye@sumukshashidhar.com" alt="Contact me"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/mail-fill.svg"></a>
+    <a href="https://sumukshashidhar.com" alt="My site"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/external-link-line.svg"></a>
   </p>
 
   <p align="center">
