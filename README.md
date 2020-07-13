@@ -35,4 +35,4 @@ Here's a list of things I currently keep myself busy with:
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/readme/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/bottom.svg" alt="bottom">
