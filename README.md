@@ -6,7 +6,7 @@ I like experimenting with new technologies, building projects, and working with 
 Here's a list of things I currently keep myself busy with:
 
 - I run **[1sigmoid](https://1sigmoid.ml)**, an API solutions company which employs over 20 people and builds and maintains the sigmoidSuite of APIs for small businesses. 
-- ☀️ Contributing to tons of opensource projects such as **[Deno](https://deno.land)**, **[Dortania]**(https://dortania.github.io/), [Athena](https://1athena.ml) and others. 
+- ☀️ Contributing to tons of opensource projects such as **[Deno](https://deno.land)**, **[Dortania](https://dortania.github.io/)**, **[Athena](https://1athena.ml)** and others. 
 - ✍️ Writing tech blog posts over at **[Sumuk's Blog](https://blog.sumukshashidhar.com)**.
 - 🛠 Getting myself into Competitive Programming.
 
