@@ -9,9 +9,6 @@ Here's a list of things I currently keep myself busy with:
 - ☀️ Contributing to tons of opensource projects such as **[Deno](https://deno.land)**, **[Dortania](https://dortania.github.io/)**, **[Athena](https://1athena.ml)** and others. 
 - ✍️ Writing tech blog posts over at **[Sumuk's Blog](https://blog.sumukshashidhar.com)**.
 - 🛠 Getting myself into Competitive Programming.
-
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=sumukshashidhar&show_icons=true)
-
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
