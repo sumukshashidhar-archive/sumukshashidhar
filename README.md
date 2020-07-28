@@ -20,9 +20,5 @@ Here's a list of things I currently keep myself busy with:
     <a href="https://sumukshashidhar.com" alt="My site"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/external-link-line.svg"></a>
   </p>
 
-  <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sumukshashidhar.visitor-badge">
-  </p>
-</p>
 
 <img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/bottom.svg" alt="bottom">
