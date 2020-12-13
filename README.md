@@ -31,5 +31,20 @@ I also love experimenting with new technologies, building projects, and working 
     <a href="https://sumukshashidhar.com" alt="My site"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/external-link-line.svg"></a>
   </p>
 
+# Languages
+
+<div align='center'>
+
+  <a href='https://unity3d.com/machine-learning' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=ML-Agents&style=for-the-badge&logo=unity&logoColor=007396&color=black&logoColor' />
+  </a>
+  <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Blender&logoColor=339933&color=black&style=for-the-badge&logo=blender&logoColor' />
+  </a>
+  <a href='https://docs.microsoft.com/en-us/dotnet/csharp' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=c-sharp&style=for-the-badge&logo=c-sharp&color=black' />
+  </a>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/bottom.svg" alt="bottom">
