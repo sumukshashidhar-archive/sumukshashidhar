@@ -36,24 +36,24 @@ I also love experimenting with new technologies, building projects, and working 
 ## High
 
 <div align='center'>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="GraphQL" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="NGINX" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-ar21.svg" alt="Docusaurus" width="50" height="50"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="GraphQL"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="NGINX"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-ar21.svg" alt="Docusaurus"/></a>
 </div>
 
 ## Moderate
 
 <div align='center'>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Linux" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="GoLang" width="50" height="50"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Linux"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="GoLang"/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
@@ -61,11 +61,11 @@ I also love experimenting with new technologies, building projects, and working 
 
 ## Learning!
 <div align='center'>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" alt="Alpine" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/fauna/fauna-ar21.svg" alt="FaunaDB" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" width="50" height="50"/></a>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="Neo4J" width="50" height="50"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" alt="Alpine"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/fauna/fauna-ar21.svg" alt="FaunaDB"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="Neo4J"/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
