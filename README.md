@@ -25,7 +25,7 @@ I also love experimenting with new technologies, building projects, and working 
 
 # Experience
 
-## High
+## Comfortable
 
 <div align='center'>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/></a>
@@ -36,19 +36,11 @@ I also love experimenting with new technologies, building projects, and working 
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="NGINX"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-ar21.svg" alt="Docusaurus"/></a>
-</div>
-
-## Moderate
-
-<div align='center'>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="Arch Linux"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="GoLang"/></a>
-  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
-  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
-  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
 </div>
 
 ## Learning!
@@ -58,7 +50,7 @@ I also love experimenting with new technologies, building projects, and working 
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/fauna/fauna-ar21.svg" alt="FaunaDB"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="Neo4J"/></a>
-  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow"/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
 </div>
