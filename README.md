@@ -21,15 +21,7 @@ I also love experimenting with new technologies, building projects, and working 
 
 
 <hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-  <p align="center">
-    <a href="https://twitter.com/sumukshashidhar" alt="Twitter"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/sumuks/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/linkedin-fill.svg"></a>
-    <a href="mailto:sumuk@sumukshashidhar.com" alt="Contact me"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/mail-fill.svg"></a>
-    <a href="https://sumukshashidhar.com" alt="My site"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/external-link-line.svg"></a>
-  </p>
 
 # Experience
 
@@ -70,3 +62,13 @@ I also love experimenting with new technologies, building projects, and working 
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
 </div>
+
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/sumukshashidhar" alt="Twitter"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/sumuks/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/linkedin-fill.svg"></a>
+    <a href="mailto:sumuk@sumukshashidhar.com" alt="Contact me"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/mail-fill.svg"></a>
+    <a href="https://sumukshashidhar.com" alt="My site"><img src="https://raw.githubusercontent.com/sumukshashidhar/sumukshashidhar/master/readme/external-link-line.svg"></a>
+  </p>
