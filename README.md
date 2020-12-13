@@ -44,4 +44,29 @@ I also love experimenting with new technologies, building projects, and working 
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
   <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+</div>
 
+## Moderate
+
+<div align='center'>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+</div>
+
+## Learning!
+<div align='center'>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+  <a href='' target="_blank"><img src="" alt="" width="" height=""/></a>
+</div>
