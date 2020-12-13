@@ -36,7 +36,7 @@ I also love experimenting with new technologies, building projects, and working 
 ## High
 
 <div align='center'>
-  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="GraphQL"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></a>
