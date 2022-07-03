@@ -1,9 +1,5 @@
 
 
-Hello, I'm Sumuk Shashidhar, a CS Freshman at the University of Illinois at Urbana Champaign. Being a kid in an isolated sub-urb, the computer was often my best friend, and I started coding at the age of 9. I started out with C, moved over to Java, then to Python. These days, I find myself primarily working with Python and Javascript. 
-
-I am currently toying with the idea of decentralised finance, and working on developing decentralised systems to allow greater participation from all demographics of society.
-
 <hr>
 
 
